@@ -1,0 +1,17 @@
+Please find the task below:
+
+1. Create an API where you can upload the CSV file. Please find the attached sample file. Upload the file to the server and read all the data from the CSV file and store it in the database.
+3. Create a get API that fetches and returns the list of all the uploaded data.
+
+Technology :
+Frontend: NodeJS
+
+Please make sure to read all the instructions carefully as they will help you complete the assignment.    
+Important Points to note:
+1. Write clean code
+2. Application should be responsive
+3. No backend is needed
+
+How to submit the code?
+Create a bitbucket/github/gitlab repo and send the link within 48 hours of receiving this task in email.
+Repository should contain a README.md file which should describe the steps how to build and run the application
